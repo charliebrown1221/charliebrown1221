@@ -12,5 +12,5 @@
 - ⚡ Fun fact: ...
 
 -->
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=CharalambosIoannou&show_icons=true&theme=chartreuse-dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CharalambosIoannou&theme=chartreuse-dark)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=charliebrown1221&show_icons=true&theme=chartreuse-dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=charliebrown1221&theme=chartreuse-dark)
